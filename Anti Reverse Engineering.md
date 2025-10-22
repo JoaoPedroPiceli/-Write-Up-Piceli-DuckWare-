@@ -136,6 +136,4 @@ Tela exemplo do processo de dump e reparo de IAT.
 - Imagens fornecidas pelo autor do desafio.  
 - Material de referência: https://tryhackme.com/room/antireverseengineering
 
----
 
-**Aviso:** conteúdo com finalidade educativa e defensiva. Não contém instruções para criação, distribuição ou ocultação de malware. Trabalhe sempre em ambiente autorizado.
