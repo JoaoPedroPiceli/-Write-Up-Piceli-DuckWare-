@@ -9,7 +9,7 @@ Analisar malware é um ciclo de observação, controlo e validação. O objetivo
 
 ---
 
-## Etapa 1 — Resumo executivo
+## Etapa 1 — Resumo
 - Malware usa evasões estáticas (ofuscação, packing, strings cifradas, carregamento dinâmico) para esconder intenção antes da execução.  
 - Malware usa evasões dinâmicas (detecção de VM/sandbox, checagens temporais, verificação de atividade do usuário, detecção de ferramentas) para alterar comportamento em execução.  
 - Depuradores permitem pausar e inspecionar execução, ver registradores, pilha e memória, e manipular estado em memória para testar hipóteses.  
