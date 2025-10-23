@@ -19,7 +19,7 @@ Analisar malware é um ciclo de observação, controlo e validação. O objetivo
 
 ---
 
-## Etapa 2 — Evasão estática (detalhe)
+## Etapa 2 — Evasão estática 
 Técnicas que dificultam a leitura do binário sem execução:
 
 - **Alteração de hash:** pequenas alterações no binário mudam assinaturas baseadas em hash.  
@@ -31,7 +31,7 @@ Entender essas técnicas orienta a escolha de ferramentas e hipóteses para aná
 
 ---
 
-## Etapa 3 — Evasão dinâmica (detalhe)
+## Etapa 3 — Evasão dinâmica 
 Técnicas observadas durante execução:
 
 - **Detecção de VM/Sandbox:** busca por artefactos de virtualização e recursos reduzidos.  
